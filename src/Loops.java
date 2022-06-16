@@ -19,7 +19,7 @@ public class Loops {
         int odd = 0;
         int even = 0;
         int max = 10;
-        int min = 1;
+        int min = 2;
         int range = max - min + 1;
 
         for (int i = 0; i <= 100; i++){
